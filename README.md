@@ -5,7 +5,7 @@ Disclaimer: | Use my files at your own risk!
 
 
 
-**strangeWORLD**
+
 ![screenshot](https://github.com/Ksiencha/Dzen2/blob/master/Screenshot.png)
 
 * [PREREQUISITES](https://github.com/Ksiencha/Dzen2/blob/master/README.md#prerequisites)
